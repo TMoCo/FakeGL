@@ -1,4 +1,8 @@
-To compile on feng-linux / feng-gps:
+COMP 5822 Foundations of Modelling and rendering
+
+FakeGL, a software implementation of the OpenGL pipeline in C++ to help understand the rendering pipeline.
+
+To compile on Linux
 
 module add qt/5.13.0
 qmake -project QT+=opengl
