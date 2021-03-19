@@ -34,3 +34,4 @@ To run on OSX:
 
 In the example below, OpenGL is rendered on the left and FakeGL is rendered on the right, uncanny!
 ![FakeGL in action](https://media.giphy.com/media/OoNGvtadFlSEZoIlY4/giphy.gif)
+![FakeGL in action](https://media.giphy.com/media/Kjqm3je1ysKnWyAVW1/giphy.gif)
