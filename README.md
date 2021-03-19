@@ -32,4 +32,5 @@ To run on Linux:
 To run on OSX:
 ./FakeGLRenderWindowRelease.app/Contents/MacOS/FakeGLRenderWindowRelease  ../path_to/model.obj ../path_to/texture.ppm
 
-
+In the example below, OpenGL is rendered on the left and FakeGL is rendered on the right, uncanny!
+![FakeGL in action](https://media.giphy.com/media/OoNGvtadFlSEZoIlY4/giphy.gif)
